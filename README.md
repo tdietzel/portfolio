@@ -15,7 +15,7 @@ _This webpage practices using HTML and CSS to create a landing page about me, th
 
 ## Setup/Installation Requirements
 
-* _Visual Studio Code_
+* _https://tdietzel.github.io/portfolio/_
 
 _Very simple and easy to view/navigate through_
 
