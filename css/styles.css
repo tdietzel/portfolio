@@ -2,6 +2,7 @@
   background-color:darkgray;
   padding:300px;
 }
+
 .header{
 text-align:center;
 color:blueviolet;
@@ -12,7 +13,15 @@ color:rgb(14, 14, 202);
 }
 
 .about-me{
-color:rgb(173, 33, 33);
+color:purple;
+}
+
+.about-me h2{
+  color:aqua;
+}
+
+.about-me h3{
+  color:crimson
 }
 
 .name{
