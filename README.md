@@ -17,7 +17,7 @@ _This webpage practices using HTML and CSS to create a landing page about me, th
 
 * _https://tdietzel.github.io/portfolio/_
 
-_Very simple and easy to view/navigate through_
+_Very simple and easy to view/navigate through. Includes a couple links to other projects._
 
 ## Known Bugs
 
