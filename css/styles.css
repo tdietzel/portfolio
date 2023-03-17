@@ -78,9 +78,9 @@ body{
   box-sizing:border-box;
   width:49%;
   border:2px solid black;
-  padding-top:50px;
+  padding-top:70px;
   padding-right:45px;
-  padding-bottom:124px;
+  padding-bottom:104px;
   padding-left:45px;
 }
 
@@ -92,4 +92,8 @@ body{
   font-style:italic;
   font-size:30px;
   color:blue;
+}
+
+.interests li{
+  font-family:impact;
 }
