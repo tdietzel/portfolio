@@ -14,7 +14,7 @@
 
 .projects{
   text-align:center;
-  color:rgb(14, 14, 202);
+  color:purple;
   box-sizing:border-box;
   width:100%;
   border:2px solid black;
@@ -22,32 +22,52 @@
   padding-bottom:0px;
 }
 
-.about-me{
+.projects h1{
+  color:blue;
+}
+
+.background{
   text-align:center;
   background-color:beige;
   float:left;
-  color:purple;
+  color:black;
   box-sizing:border-box;
-  width:50%;
+  width:51%;
   border:2px solid black;
   padding:4px;
 }
 
-.about-me h2{
-  color:aqua;
+.background h3{
+  text-align:center;
+  color:crimson;
 }
 
-.about-me h3{
-  color:crimson
+.my-background{
+  font-style:italic;
+  font-size:30px;
+  color:blue;
 }
 
 .interests{
   text-align:center;
   background-color:beige;
   float:right;
-  color:purple;
+  color:black;
   box-sizing:border-box;
-  width:50%;
+  width:49%;
   border:2px solid black;
-  padding:45px;
+  padding-top:50px;
+  padding-right:45px;
+  padding-bottom:124px;
+  padding-left:45px;
+}
+
+.interests h3{
+  color:crimson
+}
+
+.my-interests{
+  font-style:italic;
+  font-size:30px;
+  color:blue;
 }
