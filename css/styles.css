@@ -46,6 +46,7 @@ body{
 
 .projects ul{
   color:whitesmoke;
+  font-style:italic;
 }
 
 .background{
@@ -57,6 +58,10 @@ body{
   width:51%;
   border:2px solid black;
   padding:4px;
+}
+
+.background ul{
+  font-family:helvetica;
 }
 
 .background h3{
@@ -78,9 +83,9 @@ body{
   box-sizing:border-box;
   width:49%;
   border:2px solid black;
-  padding-top:70px;
+  padding-top:14px;
   padding-right:45px;
-  padding-bottom:104px;
+  padding-bottom:17px;
   padding-left:45px;
 }
 
