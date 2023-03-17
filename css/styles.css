@@ -7,9 +7,20 @@
   color:blueviolet;
 }
 
+.header h1{
+  margin-bottom:0px;
+}
+
 .name{
   color:black;
   font-style: italic;
+  font-size:40px;
+}
+
+.img-car{
+  box-sizing:border-box;
+  border:8px solid purple;
+  margin:2px; 
 }
 
 .projects{
@@ -17,13 +28,17 @@
   color:purple;
   box-sizing:border-box;
   width:100%;
-  border:2px solid black;
+  border:2px solid whitesmoke;
   padding:0px;
   padding-bottom:0px;
 }
 
 .projects h1{
   color:blue;
+}
+
+.projects ul{
+  color:whitesmoke;
 }
 
 .background{
