@@ -1,19 +1,36 @@
 .background-color{
   background-color:darkgray;
-  padding:300px;
 }
 
 .header{
-text-align:center;
-color:blueviolet;
+  text-align:center;
+  color:blueviolet;
+}
+
+.name{
+  color:black;
+  font-style: italic;
 }
 
 .projects{
-color:rgb(14, 14, 202);
+  text-align:center;
+  color:rgb(14, 14, 202);
+  box-sizing:border-box;
+  width:100%;
+  border:2px solid black;
+  padding:0px;
+  padding-bottom:0px;
 }
 
 .about-me{
-color:purple;
+  text-align:center;
+  background-color:beige;
+  float:left;
+  color:purple;
+  box-sizing:border-box;
+  width:50%;
+  border:2px solid black;
+  padding:4px;
 }
 
 .about-me h2{
@@ -24,7 +41,13 @@ color:purple;
   color:crimson
 }
 
-.name{
-  color:black;
-  font-style: italic;
+.interests{
+  text-align:center;
+  background-color:beige;
+  float:right;
+  color:purple;
+  box-sizing:border-box;
+  width:50%;
+  border:2px solid black;
+  padding:45px;
 }
