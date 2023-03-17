@@ -50,14 +50,14 @@ body{
 }
 
 .background{
-  text-align:center;
+  text-align:left;
   background-color:beige;
   float:left;
-  color:black;
   box-sizing:border-box;
   width:51%;
   border:2px solid black;
-  padding:4px;
+  padding-top:15px;
+  padding-left:45px;
 }
 
 .background ul{
@@ -65,7 +65,7 @@ body{
 }
 
 .background h3{
-  text-align:center;
+  text-align:left;
   color:crimson;
 }
 
@@ -76,16 +76,15 @@ body{
 }
 
 .interests{
-  text-align:center;
+  text-align:left;
   background-color:beige;
   float:right;
   color:black;
   box-sizing:border-box;
   width:49%;
   border:2px solid black;
-  padding-top:14px;
-  padding-right:45px;
-  padding-bottom:17px;
+  padding-top:15px;
+  padding-bottom:23px;
   padding-left:45px;
 }
 
