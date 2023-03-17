@@ -1,4 +1,9 @@
+.background-color{
+  background-color:darkgray;
+  padding:300px;
+}
 .header{
+text-align:center;
 color:blueviolet;
 }
 
@@ -8,4 +13,9 @@ color:blue;
 
 .about-me{
 color:brown;
+}
+
+.name{
+  color:black;
+  font-style: italic;
 }
