@@ -1,5 +1,10 @@
 .background-color{
   background-color:darkgray;
+  border:2px dashed black;
+}
+
+body{
+  margin:0px;
 }
 
 .header{
@@ -8,7 +13,8 @@
 }
 
 .header h1{
-  margin-bottom:0px;
+  margin-bottom:2px;
+  margin-top:2px;
 }
 
 .name{
@@ -35,6 +41,7 @@
 
 .projects h1{
   color:blue;
+  font-family:courier;
 }
 
 .projects ul{
