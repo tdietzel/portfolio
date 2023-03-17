@@ -1,4 +1,4 @@
-# _My Portfolio_
+# _Portfolio_
 
 #### By _**Trent Dietzel**_
 
@@ -11,17 +11,17 @@
 
 ## Description
 
-_This webpage practices using HTML and CSS to create a landing page about me, that will later be used as the homepage for my programming portfolio!_
+_This webpage practices using HTML and CSS to create a landing page about me, that will later be used as the homepage for my programming portfolio! The website includes a picture of my car, an about me section and even links to all my projects at Epicodus._
 
 ## Setup/Installation Requirements
 
-* _Follow the link to the website_
+* _Visual Studio Code_
 
 _Very simple and easy to view/navigate through_
 
 ## Known Bugs
 
-* _Work In Progress, not the most eye appealing yet_
+* _None found currently_
 
 ## License
 
