@@ -103,14 +103,23 @@ body{
 }
 
 @media screen and (max-width: 1000px) {
-  body {
+  .background-color {
       background-color: black;
-      color: white;
   }   
-}
 
-@media screen and (max-width: 480px) {
-  body {
-    background-color: teal;
+  .background{
+    background-color:black;
+    color:white;
+    border-color:purple;
+  }
+
+  .interests{
+    background-color:black;
+    color:white;
+    border-color:purple;
+  }
+
+  .name{
+    color:white;
   }
 }
