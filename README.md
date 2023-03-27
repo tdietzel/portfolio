@@ -15,13 +15,13 @@ _This webpage practices using HTML and CSS to create a landing page about me, th
 
 ## Setup/Installation Requirements
 
-* _https://tdietzel.github.io/portfolio/_
-
-_Very simple and easy to view/navigate through. Includes a couple links to other projects._
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open js/index.html in your browser._
 
 ## Known Bugs
 
-* _None found currently_
+* _None currently known._
 
 ## License
 
